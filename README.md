@@ -1,6 +1,6 @@
 # CRUD
 
- ------- CRUD ------- 
+
 
 🟦 In computer programming, create, read, update, and delete (CRUD) are the four basic operations of persistent storage.CRUD is also sometimes used to describe user interface conventions that facilitate viewing, searching, and changing information using computer-based forms and reports. The term was likely first popularized by James Martin in his 1983 book Managing the Data-base environment.
 
@@ -16,6 +16,8 @@ Delete	DELETE
 
 Note: Some big data systems do not implement UPDATE, but have only a timestamped INSERT (journaling), storing a completely new version of the object each time.
 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 MIT License
 
 Copyright (c) 2023 Martín José Imoberdorf
